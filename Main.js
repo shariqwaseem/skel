@@ -6,7 +6,7 @@ import { StyleSheet, Text, View } from "react-native";
 //React navigation
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
-import DummyScreen from "./Screens/DummyScreen";
+import DummyScreen from "./screens/DummyScreen";
 //React navigation
 
 // Redux includes and inits
